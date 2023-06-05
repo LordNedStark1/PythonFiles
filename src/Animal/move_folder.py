@@ -1,0 +1,18 @@
+from pathlib import Path
+
+# source = Path("C:/Users/USER/PycharmProjects/pythonfilesJonathan/src/files/new_directory/dir_1")
+# print (source.exists())
+# destination = Path("C:/Users/USER/PycharmProjects/pythonfilesJonathan/src/Animal/Pig.py")
+# source.replace(destination)
+# source = Path("C:/Users/USER/Desktop/my_folder/make_move/my")
+# print(source.exists())
+# source = Path("C:/Users/USER/Desktop/Test2/move_me.txt.txt")
+# print(source.exists())
+# destination = Path("C:/Users/USER/Desktop/folder2/swap_maybe/swap.txt.txt")
+# print(destination.exists())
+# source.replace(destination)
+source = Path("C:/Users/USER/Desktop/Test2/master.txt")
+print(source.exists())
+destination = Path("C:/Users/USER/Desktop/my_folder/make_move/master.txt")
+# print (destination.exists())
+source.replace(destination)

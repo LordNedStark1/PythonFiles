@@ -1,0 +1,4 @@
+name,isSingle,cohort,status,home
+Ned,False,15,COMPLICATED,
+Rid-wan,True,15,UNKNOWN,
+Timmy,True,15,UnDISCLOSED,far
